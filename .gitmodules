@@ -1,0 +1,6 @@
+[submodule "01-birthday-reminder-app"]
+	path = 01-birthday-reminder-app
+	url = https://github.com/1hakann/01-birthday-reminder-app.git
+[submodule "02-tours-app"]
+	path = 02-tours-app
+	url = https://github.com/1hakann/02-tours-app.git
