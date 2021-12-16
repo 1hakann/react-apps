@@ -4,3 +4,6 @@
 [submodule "02-tours-app"]
 	path = 02-tours-app
 	url = https://github.com/1hakann/02-tours-app.git
+[submodule "04-accordion-app"]
+	path = 04-accordion-app
+	url = https://github.com/1hakann/04-accordion-app.git
