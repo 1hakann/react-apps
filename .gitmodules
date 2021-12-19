@@ -10,3 +10,6 @@
 [submodule "04-accordion-app"]
 	path = 04-accordion-app
 	url = https://github.com/1hakann/04-accordion-app.git
+[submodule "05-menu-app"]
+	path = 05-menu-app
+	url = https://github.com/1hakann/05-menu-app.git
